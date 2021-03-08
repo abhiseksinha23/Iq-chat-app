@@ -21,9 +21,9 @@ body {
     font-family: Helvetica, Arial, sans-serif;
 }
 
-/* h1 {
+h1 {
     margin-bottom: 16px;
-} */
+}
 
 label {
     display: block;
@@ -80,7 +80,7 @@ button:disabled {
 }
 
 .centered-form input {
-    margin-bottom: 16px;
+    /* margin-bottom: 16px; */
     width: 100%;
 }
 

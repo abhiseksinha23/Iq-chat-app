@@ -16,7 +16,7 @@ input {
 
 body {
     line-height: 1.4;
-      background: #333744;
+    background: #333744;
     /* color: #333333; */
     font-family: Helvetica, Arial, sans-serif;
 }
@@ -62,7 +62,7 @@ button:disabled {
 .centered-form {
     background: #333744;
     width: 100vw;
-    height: 80vh;
+    height: 50vh;
     display: flex;
     justify-content: center;
     align-items: center;
